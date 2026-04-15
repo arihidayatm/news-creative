@@ -1,0 +1,73 @@
+# Laravel
+/node_modules
+/vendor
+.env
+.env.backup
+.env.*.php
+.phpunit.result.cache
+/.idea
+/.vscode
+/.vscode-test
+/.vessels
+/.fusion
+/dist
+Homestead.json
+Homestead.yaml
+auth.json
+.DS_Store
+Thumbs.db
+.env.*.local
+
+# Laravel Pint
+.pint.json
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+.vscode/
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Build/Dist
+/dist
+/build
+/out
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Dependencies
+node_modules/
+vendor/
+
+# Cache
+/storage/framework/cache
+/storage/framework/sessions
+/storage/framework/views
+/bootstrap/cache
+
+# User uploads
+/storage/app/public
+/storage/app
+
+# Test coverage
+/coverage
+/.coverage
+.coverage.*
+
+# Misc
+.env.dusk.local
+.php-cs-fixer.cache
